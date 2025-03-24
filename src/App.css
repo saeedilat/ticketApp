@@ -1,0 +1,9 @@
+.conainer{
+  background-image: url(../public/Untitled.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
